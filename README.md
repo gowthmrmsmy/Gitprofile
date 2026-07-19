@@ -1,16 +1,34 @@
 # Age of Empires Gaming Room
 
-Pixel-art cozy battlestation remake themed around **Age of Empires** — same layout energy as the classic Nintendo gaming-room scene, swapped for medieval RTS vibes.
+Animated pixel-art battlestation (GIF) — Age of Empires II / **Teutonic Knight** remake of the classic Mario coder header.
 
 <p align="center">
-  <img src="assets/age-of-empires-gaming-room.png" alt="Age of Empires themed cozy pixel art gaming room" width="100%" />
+  <img src="assets/age-of-empires-gaming-room.gif" alt="Animated Age of Empires II Teutonic Knight gaming room" width="100%" />
 </p>
 
-### Theme swaps
-- Seated character: **Teutonic Knight** (AoE2) in white surcoat + black cross — replaces Mario
-- Neon Age of Empires II logo glow
-- Main monitor: Castle Age isometric town + classic RTS UI
-- CRT: Age of Empires II title / Press Start
-- Figurines: Teutonic Knight, mounted knight, trebuchet, monk
-- Posters: world map c. 1000 A.D., technology tree, CASTLE!
-- Teutonic banners & great helm · stained-glass compass rose · WOLOLO mug
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gowthmrmsmy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+### Use in your GitHub profile README
+
+```markdown
+![AoE Teutonic Knight](https://raw.githubusercontent.com/gowthmrmsmy/Gitprofile/cursor/aoe-gaming-room-9755/assets/age-of-empires-gaming-room.gif)
+```
+
+Or after merge to `main`:
+
+```markdown
+![AoE Teutonic Knight](./assets/age-of-empires-gaming-room.gif)
+```
+
+### What’s animated
+- Neon Age of Empires II logo pulse
+- Monitor / CRT flicker
+- PC LED blink
+- Soft gold sparkle + breathing light
+
+### Theme
+- Seated character: **Teutonic Knight** (AoE2) — replaces Mario
+- Castle Age isometric town on the main screen
+- Teutonic banners, great helm, WOLOLO mug, tech tree & map posters
