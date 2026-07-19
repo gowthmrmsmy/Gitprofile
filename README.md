@@ -7,10 +7,10 @@ Pixel-art cozy battlestation remake themed around **Age of Empires** — same la
 </p>
 
 ### Theme swaps
-- Neon **AoE “A”** logo glow
+- Seated character: **Teutonic Knight** (AoE2) in white surcoat + black cross — replaces Mario
+- Neon Age of Empires II logo glow
 - Main monitor: Castle Age isometric town + classic RTS UI
-- CRT: Age of Empires title / Press Start
-- Figurines: knight, trebuchet, wood-carrying villager, monk
+- CRT: Age of Empires II title / Press Start
+- Figurines: Teutonic Knight, mounted knight, trebuchet, monk
 - Posters: world map c. 1000 A.D., technology tree, CASTLE!
-- Chair cushion: heraldic shield · desk hat rack: crown / helmet
-- Stained-glass compass rose window · WOLOLO mug
+- Teutonic banners & great helm · stained-glass compass rose · WOLOLO mug
